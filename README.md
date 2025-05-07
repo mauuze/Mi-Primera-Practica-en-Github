@@ -1,6 +1,6 @@
-## Curso Git y GitHub
+# Curso Git y GitHub
 ## Clase 1 
-# ¿Que es un control de versiones?
+### ¿Que es un control de versiones?
 Es un sistema que registra cada cambio que se realiza 
 en el codigo fuente de tu proyecto.
 Esto permite tener un historico de todos los cambios 
